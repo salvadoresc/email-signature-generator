@@ -1,0 +1,19 @@
+{
+  "default_phone": "+50373908924",
+  "default_website": "https://haycoctelesamor.com",
+  "default_logo": "https://scontent.fsal2-2.fna.fbcdn.net/v/t39.30808-6/312903638_518851813584678_8252455046656790058_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG-JaOHNAHrN3j80-pLipoSJONp3ydkkWIk42nfJ2SRYjX9xbRBDFz08FiV89jj-gE&_nc_ohc=fUCqNjXa5xYQ7kNvwFpJ90h&_nc_oc=AdlqGbHEquY3QpGurOR5_GIT5yDeoeLe9W-1MqFEWeLg1g0xWBj5TqjeIAGKIbOwpi0JHn78yRDt7wlDbYZR4ryS&_nc_zt=23&_nc_ht=scontent.fsal2-2.fna&_nc_gid=eQTlczGMdP68IAZcEQL_IA&oh=00_AfQ-CLY3QUIjCDfWJ_yJ1s-Yw_0hRuL6O87P4RCSaTIHvA&oe=687CA1B3",
+  "social_icons": {
+    "facebook": "https://cdn-icons-png.flaticon.com/24/733/733547.png",
+    "instagram": "https://cdn-icons-png.flaticon.com/24/2111/2111463.png",
+    "linkedin": "https://cdn-icons-png.flaticon.com/24/174/174857.png",
+    "twitter": "https://cdn-icons-png.flaticon.com/24/733/733579.png"
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com/pavichisv",
+    "instagram": "https://www.instagram.com/pavichisv",
+    "linkedin": "https://x.com/haycoctelesamor"
+  },
+  "org_name": "Pavichi",
+  "address_lines": [],
+  "disclaimer": "This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed.\n\nIf you have received this message in error, please notify the sender immediately and delete it from your system.\n\nPlease note that email communication is not a secure or confidential method of communication."
+}
