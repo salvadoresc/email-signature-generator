@@ -41,7 +41,7 @@ Pedro Picapiedras, Bronto crane operator,He/Him,pedro@haycoctelesamor.com,,https
 
 ## Author
 
-**Emigdio Salvador Corado**
+**Emigdio Salvador Corado - Salvadoresc**
 
 ## License
 
